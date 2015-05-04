@@ -6,3 +6,4 @@ Creating a new branck is quick and simple.
 test --no-ff merge mode.
 test git stash.
 add dev branch again.
+modify in study-other.
